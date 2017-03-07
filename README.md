@@ -3,4 +3,4 @@ Just another repository
 
 Hey there!
 
-I'm Cody, I enjoy learning new coding languages like JScript, Ruby and Python. I look forward to continued success and learnign a lot of new things!
+I'm Cody and I'm here to get a job using Java, Java Script and Scala. 
